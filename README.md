@@ -127,22 +127,21 @@ The system uses the Flavia leaf dataset which should be located at:
 - `../Flavia py files/Flavia_features.csv` (features)
 - `../Flavia leaves dataset/` (images)
 - 
-Homepage
+## Homepage
 
-![Homepage Screenshot](assests/homepage.jpeg)
+![Homepage](assets/homepage.jpeg)
 
-# Sample Leaf 1
+## Sample Leaf 1
 
-![Leaf 1](assests/leaf1.jpeg)
+![Leaf 1](assets/leaf1.jpeg)
 
-# Sample Leaf 2
+## Sample Leaf 2
 
-![Leaf 2](assests/leaf2.jpeg)
+![Leaf 2](assets/leaf2.jpeg)
 
-# Sample Leaf 3
+## Sample Leaf 3
 
-![Leaf 3](assests/leaf3.jpeg)
-
+![Leaf 3](assets/leaf3.jpeg)
 ## Contributing
 
 1. Fork the repository
