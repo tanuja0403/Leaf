@@ -126,6 +126,22 @@ The frontend will start on `http://localhost:3000`
 The system uses the Flavia leaf dataset which should be located at:
 - `../Flavia py files/Flavia_features.csv` (features)
 - `../Flavia leaves dataset/` (images)
+- 
+# Homepage
+
+![Homepage Screenshot](assets/homepage.jpeg)
+
+# Sample Leaf 1
+
+![Leaf 1](assets/leaf1.jpeg)
+
+# Sample Leaf 2
+
+![Leaf 2](assets/leaf2.jpeg)
+
+# Sample Leaf 3
+
+![Leaf 3](assets/leaf3.jpeg)
 
 ## Contributing
 
